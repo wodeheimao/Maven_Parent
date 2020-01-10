@@ -1,0 +1,12 @@
+com\zelin\pojo\PageResult.class
+com\zelin\pojo\Classes.class
+com\zelin\pojo\Student.class
+com\zelin\pojo\Result.class
+com\zelin\pojo\StudentExample$Criteria.class
+com\zelin\pojo\StudentExample$Criterion.class
+com\zelin\pojo\ClassesExample.class
+com\zelin\pojo\StudentExample.class
+com\zelin\pojo\StudentExample$GeneratedCriteria.class
+com\zelin\pojo\ClassesExample$Criteria.class
+com\zelin\pojo\ClassesExample$Criterion.class
+com\zelin\pojo\ClassesExample$GeneratedCriteria.class
